@@ -1,0 +1,5 @@
+python segment/predict.py --weights yolov5s-seg.pt --source img.jpg --hide-labels --hide-conf
+
+python segment/predict_noBbox.py --weights runs/custom/weights/best.pt --source dataset/test/images --device 0
+
+
