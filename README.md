@@ -70,7 +70,7 @@ python segment/predict_noBbox_detectNum.py --weights runs/custom/weights/best.pt
 
 ## License
 All code and documentation in this project are available under the [MIT License](https://opensource.org/licenses/MIT).
-See the [LICENSE file]() for details.
+See the [LICENSE file](LICENSE) for details.
 
 
 
