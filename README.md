@@ -6,7 +6,7 @@ This repository contains a script for making segmentation predictions using YOLO
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/topazlas/4S_Mapper.git
+    git clone https://github.com/topazlas/Building_Segmentation.git
     cd Building_Segmentation
     ```
 
